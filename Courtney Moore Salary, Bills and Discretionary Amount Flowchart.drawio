@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="GY8VmjAgrOV6euH5_LU--0" value="Courtney Moore&amp;nbsp;&lt;div&gt;Instructor David Cooper&lt;/div&gt;&lt;div&gt;Computing Logic SDEV120&lt;/div&gt;&lt;div&gt;March 24, 2025&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="40" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GY8VmjAgrOV6euH5_LU--18" target="GY8VmjAgrOV6euH5_LU--3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GY8VmjAgrOV6euH5_LU--3" target="GY8VmjAgrOV6euH5_LU--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--3" value="define num1 , num2 , answer" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GY8VmjAgrOV6euH5_LU--5" target="GY8VmjAgrOV6euH5_LU--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--5" value="input num1 = &quot;Please input total of monthly salary:&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GY8VmjAgrOV6euH5_LU--7" target="GY8VmjAgrOV6euH5_LU--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--7" value="input num2 = &quot;Please input total of monthly bills:&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="590" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--12" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GY8VmjAgrOV6euH5_LU--9" target="GY8VmjAgrOV6euH5_LU--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--14" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GY8VmjAgrOV6euH5_LU--9" target="GY8VmjAgrOV6euH5_LU--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--9" value="num1 &amp;lt; num2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--11" value="print &quot;There is no discretionary income.&quot;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="706.25" width="146" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GY8VmjAgrOV6euH5_LU--13" target="GY8VmjAgrOV6euH5_LU--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--13" value="answer = num1 - num2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="885" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--15" value="print &quot;The total discretionary amount is:&quot; + answer" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="1000" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--17" value="stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1022.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--18" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GY8VmjAgrOV6euH5_LU--15" target="GY8VmjAgrOV6euH5_LU--17">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="320" y="1050" as="sourcePoint" />
+            <mxPoint x="420" y="1050" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GY8VmjAgrOV6euH5_LU--20" value="Total Salary, Bills and Discretionary Amount Flowchart" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="235" y="58" width="310" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
